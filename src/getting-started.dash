@@ -1,0 +1,6 @@
+---
+  yes-it-is-yaml-based:
+    if:
+      new-dev:
+        solicit-code-review
+          reviewer-type: veteran
